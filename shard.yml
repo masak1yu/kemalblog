@@ -1,0 +1,17 @@
+name: kemalblog
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+dependencies:
+  kemal-pg:
+    github: sdogruyol/kemal-pg
+    branch: master
+
+authors:
+  - etmnk <antilogic@outlook.com>
+
+license: MIT
