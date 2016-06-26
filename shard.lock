@@ -4,10 +4,6 @@ shards:
     github: sdogruyol/kemal
     commit: 0c46bd65da9092c4e2d1776c13730eb63fbb6bc9
 
-  kemal-pg:
-    github: sdogruyol/kemal-pg
-    commit: ca798dc1ca68aa5e81ba5dda1023e1e7e823209c
-
   kilt:
     github: jeromegn/kilt
     version: 0.3.3
