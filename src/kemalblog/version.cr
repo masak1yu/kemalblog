@@ -1,0 +1,3 @@
+module Kemalblog
+  VERSION = "0.1.0"
+end

@@ -1,4 +1,7 @@
 require "kemal"
+#require "kemal-pg"
+require "pg"
+require "pool/connection"
 require "./kemalblog/*"
 require "./kemalblog/models/*"
 
